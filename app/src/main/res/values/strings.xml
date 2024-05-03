@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JetNews</string>
+    <string name="home_title">Home</string>
+    <string name="instrest_title">Interest</string>
+
+    //bottom bar
+    <string name="bottom_bar_cd_home">home icon</string>
+    <string name="bottom_bar_title_home">Home</string>
+    <string name="bottom_bar_cd_video">video icon</string>
+    <string name="bottom_bar_title_video">Video</string>
+    <string name="bottom_bar_cd_live">Live icon</string>
+    <string name="bottom_bar_title_live">Live</string>
+    <string name="bottom_bar_cd_more">more icon</string>
+    <string name="bottom_bar_title_more">More</string>
+
+    //google auth
+    <string name="default_web_client_id">346781068724-4k70g87oa5ic4k195s7cf17v8o2q6lk0.apps.googleusercontent.com</string>
+</resources>

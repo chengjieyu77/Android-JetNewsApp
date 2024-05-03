@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:contentDescription="@string/bottom_bar_cd_home"
+        android:title="@string/bottom_bar_title_home" />
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/ic_video"
+        android:contentDescription="@string/bottom_bar_cd_video"
+        android:title="@string/bottom_bar_title_video" />
+    <item
+        android:id="@+id/live"
+        android:icon="@drawable/ic_live"
+        android:contentDescription="@string/bottom_bar_cd_live"
+        android:title="@string/bottom_bar_title_live" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/ic_more"
+        android:contentDescription="@string/bottom_bar_cd_more"
+        android:title="@string/bottom_bar_title_more" />
+</menu>

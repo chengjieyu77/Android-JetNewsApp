@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346781068724",
+    "project_id": "jetnewsapp-fc777",
+    "storage_bucket": "jetnewsapp-fc777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346781068724:android:f515cbdef8fa394f3996e1",
+        "android_client_info": {
+          "package_name": "com.example.jetnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346781068724-m8p6i25ce6bc5opglm4fh9f4q5i6s417.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jetnews",
+            "certificate_hash": "ad72a8b2b06beb0f2e049054dfe8f26acf260fe8"
+          }
+        },
+        {
+          "client_id": "346781068724-4k70g87oa5ic4k195s7cf17v8o2q6lk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmChSViaUFGZ4avgxtogZ5xKV8j0bLAw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346781068724-4k70g87oa5ic4k195s7cf17v8o2q6lk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
